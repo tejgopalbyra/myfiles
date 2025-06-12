@@ -12,3 +12,6 @@ ls comand
 cmd line
 ps aux
 network command
+pwd is command
+ifconfig is command
+iptable is command
