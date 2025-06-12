@@ -15,3 +15,9 @@ network command
 pwd is command
 ifconfig is command
 iptable is command
+this is linux command
+pvcreate 
+lvcreate 
+lvgrpcreate 
+lvextend
+mkfs.ext
