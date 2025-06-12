@@ -21,3 +21,7 @@ lvcreate
 lvgrpcreate 
 lvextend
 mkfs.ext
+
+This is impoetant 
+useradd
+passwd
