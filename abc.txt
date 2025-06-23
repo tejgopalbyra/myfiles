@@ -25,3 +25,7 @@ mkfs.ext
 This is impoetant 
 useradd
 passwd
+
+lsblk
+fdisk
+mkfs
